@@ -1,0 +1,20 @@
+- Get the bootloader working (bootloader-rs)
+- Kernel init
+    - Initialize CPU
+    - mem management
+    - setup stack pointer
+    - setup registers
+- HAL
+- Get the hello world over console
+- Display
+    - display driver
+    - framebuffer
+- Input handling
+    - keyboard driver
+    - parsing key events
+- Basic shell
+    - read input from keyboard
+    - output to the display
+    - basic commands
+- File system
+    - basic file operations (open, read, write)
