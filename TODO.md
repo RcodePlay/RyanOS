@@ -1,9 +1,7 @@
 - Get the bootloader working (bootloader-rs)
 - Kernel init
-    - Initialize CPU
-    - mem management
-    - setup stack pointer
-    - setup registers
+    - set up IDTR
+    - set up GDTR
 - HAL
 - Get the hello world over console
 - Display
